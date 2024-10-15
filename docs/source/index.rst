@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+W88CT COM
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`W88 <https://w88ct.com/>`_ là nhà cái uy tín nhất thị trường cá cược trực tuyến tại Việt Nam trong 20 năm trở lại đây. W88 link mới nhất, W88ct, W88 CT. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 88 Đ. Tân Thành, Hoà Thanh, Tân Phú, Hồ Chí Minh, Việt Nam
 
-   This project is under active development.
+Phone: 0988882282
 
-Contents
---------
+Email: admin@w88ct.com
 
-.. toctree::
+Website: https://w88ct.com/
 
-   usage
-   api
+#w88, #w_88, #w88ct, #w88_ct, #nhacaiw88, #w88link, #linkvaow88, #dangkyw88, #w88dangnhap, #taiappw88, #khuyenmaiw88
